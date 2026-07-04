@@ -47,7 +47,7 @@ export function Footer() {
               The all-in-one encrypted workspace — free, end-to-end encrypted, and kept on-chain forever.
             </p>
             <div className="mt-4 flex items-center gap-3">
-              <a href="https://www.linkedin.com/company/trustvaultario" target="_blank" rel="noopener noreferrer" aria-label="TrustVault on LinkedIn" title="LinkedIn" className="inline-flex text-slate-400 transition-colors hover:text-white">
+              <a href="https://www.linkedin.com/company/trustvaultfoundation" target="_blank" rel="noopener noreferrer" aria-label="TrustVault on LinkedIn" title="LinkedIn" className="inline-flex text-slate-400 transition-colors hover:text-white">
                 <LinkedInIcon />
               </a>
               <a href="https://github.com/trustvaultfoundation" target="_blank" rel="noopener noreferrer" aria-label="TrustVault on GitHub" title="GitHub" className="inline-flex text-slate-400 transition-colors hover:text-white">
